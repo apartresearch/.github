@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-A\*part research is an organization helping us reach benevolent AGI.
+Apart research is an organization helping us reach benevolent AGI.
 
 <!--
 
