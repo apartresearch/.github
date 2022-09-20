@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-A\*part research is an organization helping us reach benevolent AGI. Our current main project is [aisafetyideas.com](https://aisafetyideas.com).
+A\*part research is an organization helping us reach benevolent AGI.
 
 <!--
 
