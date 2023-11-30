@@ -8,5 +8,3 @@ Our mission is to grow and facilitate research in the safety of future intellige
 4. 🔗 Visit [our repositories](https://github.com/orgs/apartresearch/repositories) such as the [interpretability research starter](https://github.com/apartresearch/interpretability-starter) and [Reading What We Can](https://github.com/apartresearch/interpretability-starter)
 
 ### [Join our server](https://alignmentjam.com) where the Alignment Jam hackathons happen!
-
-### [Subscribe to the newsletters](https://news.apartresearch.com)
