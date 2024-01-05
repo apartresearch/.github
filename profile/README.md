@@ -1,6 +1,6 @@
-![Apart dark logo](https://uploads-ssl.webflow.com/6209a0a4ae74d4152a4ff87a/6597c1ec889f4216ae996775_logo_black.png#gh-light-mode-only)
-![Apart light logo](https://uploads-ssl.webflow.com/6209a0a4ae74d4152a4ff87a/6597c1ebcf0fe0dcaea9c4b0_logo_white.png#gh-dark-mode-only)
+<!--![Apart dark logo](https://uploads-ssl.webflow.com/6209a0a4ae74d4152a4ff87a/6597c1ec889f4216ae996775_logo_black.png#gh-light-mode-only)-->
 
+<img align="left" src="https://uploads-ssl.webflow.com/6209a0a4ae74d4152a4ff87a/6597c1ebcf0fe0dcaea9c4b0_logo_white.png#gh-dark-mode-only" width="400">
 
 Apart has since 2022 worked on facilitating and incubating new research within the field of AI safety, towards reducing societal-scale risks from the technology.
 
