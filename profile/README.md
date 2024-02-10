@@ -2,7 +2,7 @@
 
 <img align="left" src="https://uploads-ssl.webflow.com/6209a0a4ae74d4152a4ff87a/6597c1ebcf0fe0dcaea9c4b0_logo_white.png" width="400">
 
-Apart has since 2022 worked on facilitating and incubating new research within the field of AI safety, towards reducing societal-scale risks from the technology.
+Apart facilitates new research in AI safety, towards reducing societal-scale risks from the technology.
 
 We combine a community focus with a drive for high-quality security research.
 
